@@ -1,1 +1,1 @@
-# IBM_Data_Science_Professional_Certificate
+This repository contains files and projects for obtaining IBM Data Science Proferssional Certificate.
